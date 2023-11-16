@@ -19,10 +19,6 @@
 {"server_id":"186","HostName":"United Kingdom","city":"Server 17","flag":"United Kingdom","IP":"vless://07d6a764-1379-4056-b94e-680481b367d6@185.162.229.200:2077?type=grpc&serviceName=LikeVPN&mode=multi&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=bash.hivevpn.online#GB-London-LD-8","Ping":"","ServerStatus":"1","type":"1"},
 {"server_id":"187","HostName":"United Kingdom","city":"Server 18","flag":"United Kingdom","IP":"vless://0ca98846-8c4f-4019-9dd2-55e92987c857@45.12.30.95:2077?type=grpc&serviceName=LikeVPN&mode=multi&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=bash.hivevpn.online#GB-London-LD-9","Ping":"","ServerStatus":"1","type":"1"},
 {"server_id":"188","HostName":"United Kingdom","city":"Server 19","flag":"United Kingdom","IP":"vless://c6444f55-d9b4-46af-968a-bc96ed8eb862@185.18.250.44:2077?type=grpc&serviceName=LikeVPN&mode=multi&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=bash.hivevpn.online#GB-London-LD-10","Ping":"","ServerStatus":"1","type":"1"},
-{"server_id":"189","HostName":"United Kingdom","city":"Server 20","flag":"United Kingdom","IP":"vless://30cdeafc-fc75-4ce9-b75c-714487aad8f1@185.221.160.47:2077?type=grpc&serviceName=LikeVPN&mode=multi&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=bash.hivevpn.online#GB-London-LD-2","Ping":"","ServerStatus":"1","type":"1"},
-
- 
- 
- 
+{"server_id":"189","HostName":"United Kingdom","city":"Server 20","flag":"United Kingdom","IP":"vless://30cdeafc-fc75-4ce9-b75c-714487aad8f1@185.221.160.47:2077?type=grpc&serviceName=LikeVPN&mode=multi&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=bash.hivevpn.online#GB-London-LD-2","Ping":"","ServerStatus":"1","type":"1"}
  ]
 }
